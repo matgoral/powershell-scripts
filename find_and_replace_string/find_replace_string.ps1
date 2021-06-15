@@ -1,4 +1,4 @@
-#Script to find all word/string in all files in directory and change it
+#Script searching for all files containing a certain STRING and replacing STRING with a new STRING.
 
 #Start Transcript
 $LogFileOutput = ".\Logs\LogOutput.txt"
